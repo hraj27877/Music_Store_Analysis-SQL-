@@ -12,4 +12,4 @@ This project is for beginners and will teach you how to analyze the music playli
 
 ## Schema
 
-!(https://via.placeholder.com/400)
+<img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/40d0aa02-4047-40be-9d38-9940925aeb2f" />
