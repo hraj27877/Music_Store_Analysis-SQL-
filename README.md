@@ -12,4 +12,4 @@ This project is for beginners and will teach you how to analyze the music playli
 
 ## Schema
 
-![Schema](https://via.placeholder.com/400)
+!(https://via.placeholder.com/400)
