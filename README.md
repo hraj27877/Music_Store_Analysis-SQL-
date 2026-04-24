@@ -12,4 +12,4 @@ This project is for beginners and will teach you how to analyze the music playli
 
 ## Schema
 
-"C:\Users\HP\OneDrive\Desktop\Data Analyst\SQL\project\MusicDatabaseSchema.png"
+C:\Users\HP\OneDrive\Desktop\Data Analyst\SQL\project\MusicDatabaseSchema.png
